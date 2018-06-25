@@ -14,5 +14,10 @@
     "fancy-log": "^1.3.2",
     "map-stream": "0.0.7"
   },
-  "repository": "github:spencerwhyte/gulp-deploy-storage"
+  "repository": "github:spencerwhyte/gulp-deploy-storage",
+  "keywords": [
+    "gulp",
+    "gcs",
+    "google cloud storage"
+  ]
 }
